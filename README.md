@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Rocket.Q" src="https://github.com/linharesrocha/projeto-rocketq/blob/master/imgs/rocketq.png" width="100%">
+  <img alt="Rocket.Q" src="https://github.com/linharesrocha/projeto-rocketq/blob/master/imgs/capa.png" width="100%">
 </p>
 
 
